@@ -1,0 +1,21 @@
+h1 {
+    text-align:center; 
+    color:brown;
+}
+
+p {
+    width: 800px;
+    margin: 0 auto;
+    color:palevioletred
+}
+
+#main {
+    color:goldenrod;
+    background-color:cornsilk;
+}
+
+.A {
+    border: 5px solid pink;
+    padding: 0 10px 20px 30px;
+    background-color: mistyrose;
+}
